@@ -1,0 +1,74 @@
+{
+   "Centers": [
+      {
+         "Id": "1",
+         "Name": "Transport Center",
+         "StreetAddress": "230 Sparks Street",
+         "CenterTypeId": "1"
+      },
+    {
+      "Id": "2",
+      "Name": "Atlantic Regional Office",
+      "StreetAddress": "75 Foundry Street",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "3",
+      "Name": "St. John's Centre",
+      "StreetAddress": "11 Barter's Hill",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "4",
+      "Name": "Dartmouth Centre",
+      "StreetAddress": "33 Darthmouth Street",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "5",
+      "Name": "Ontario Regional Office",
+      "StreetAddress": "5900 Yonge Street",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "6",
+      "Name": "Hamilton Centre",
+      "StreetAddress": "9300 Hope Road",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "7",
+      "Name": "Sarnia Centre",
+      "StreetAddress": "450 Front Street South",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "8",
+      "Name": "Ottawa Centre",
+      "StreetAddress": "79 Camelot Drive",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "9",
+      "Name": "Sudbury Centre",
+      "StreetAddress": "901 Skyline Drive",
+      "CenterTypeId": "1"
+    },
+    {
+      "Id": "10",
+      "Name": "Thunder Bay Centre",
+      "StreetAddress": "45 Princess Street",
+      "CenterTypeId": "1"
+    }
+   ],
+   "CenterTypes": [
+      {
+         "Id": "1",
+         "Value": "Transport"
+      },
+      {
+         "Id": "2",
+         "Value": "Health"
+      }
+   ]
+}
